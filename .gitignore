@@ -1,0 +1,9 @@
+telegram_config.json
+stock_config.json
+.seen_*
+.last_run
+.seen_links.json
+digests/
+*.log
+__pycache__/
+.DS_Store
